@@ -1,0 +1,12 @@
+name = "Nataraj M"
+rol = "NLP Analyst"
+email = "natarajmurali56@gmail.com"
+phone = "+919344315429"
+birthday = "May 26 2002"
+location = "Coimbatore, India"
+avatar = "./config/assets/avatars/natarajphoto.jpg"
+username = "leocoderz" # <-- github user name
+googlemaps = "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d979.0067791949168!2d76.90792226953484!3d11.0365923156221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTHCsDAyJzExLjciTiA3NsKwNTQnMzAuOCJF!5e0!3m2!1sen!2sin!4v1713030810486!5m2!1sen!2sin" 
+presentation = """
+NLP Analyst at Objectways Technologies, I specialized in precise data labeling, optimizing data processes, and enhancing tool efficiency, leveraging my NLP expertise to improve AI systems and productivity.
+"""

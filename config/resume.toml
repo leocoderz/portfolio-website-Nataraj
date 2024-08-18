@@ -1,0 +1,69 @@
+############## Education config #################
+#################################################
+[[education]]
+title = "Hindusthan College OF Engineering And Technology"
+timeline = "2020 — 2024"
+description = "B.Tech in Artificial intelligence And Machine Learning"
+
+[[education]]
+title = "Jaycee Higher Secondary School"
+timeline = "2018 — 2019"
+description = "12th grade with 71%"
+
+[[education]]
+title = "Sri Ranganthar Matriculation Higher Secondary School"
+timeline = "2017 — 2018"
+description = "10th grade with 83%"
+
+
+############## Experience config ################
+#################################################
+[[experience]]
+title = "NLP Analyst"
+timeline = "2024"
+description = "Labeled and annotated diverse data types with precision, ensuring data integrity through metadata adherence. Optimized workflows and increased throughput by 20% while maintaining high accuracy, and was recognized for delivering high-quality datasets that supported successful projects."
+
+
+
+
+
+############## Skills config ####################
+#################################################
+[skills] 
+title = "My Skills"
+enabled = true
+show_bar = true
+show_value = true
+
+[[skill]]
+title = "Python"
+value = "80%"
+
+[[skill]]
+title = "NLP"
+value = "70%"
+
+[[skill]]
+title = "Data Analytics"
+value = "50%"
+
+[[skill]]
+title = "AI & ML Development"
+value = "60%"
+
+
+############## Language config ##################
+#################################################
+[languages]
+title = "Languages"
+enabled = true
+show_bar = true
+show_value = true
+
+[[language]]
+title = "English"
+value = "80%"
+
+[[language]]
+title = "Tamil"
+value = "90%"

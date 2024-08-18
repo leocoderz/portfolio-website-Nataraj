@@ -1,0 +1,19 @@
+############### Section config ##################
+#################################################
+title = "Tech Experience"
+enabled = true # false
+
+############### Technologies ####################
+#################################################
+# Technology I have worked with
+# name = "./.../../icon_path"
+[technologies]
+python = "./config/assets/icons/python.svg"
+git = "./config/assets/icons/git.svg"
+spacy ="../config/assets/icons/spacy.png"
+tensorflow="./config/assets/icons/ts.png"
+Pytorch="/config/assets/icons/pytr.png"
+pandas = "./config/assets/icons/pandas.svg"
+jupyter = "./config/assets/icons/jupyter.svg"
+SQL="./config/assets/icons/sql.png"
+Excel="./config/assets/icons/excel.png"

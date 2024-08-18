@@ -1,0 +1,18 @@
+[[doing]]
+title = "NLP Analyst"
+icon = "./config/assets/icons/mobile.svg"
+text = "I specialized in precise data labeling, process optimization, and tool efficiency, using my NLP expertise to boost AI systems and productivity."
+
+[[doing]]
+title = "prompt engineering"
+icon = "./config/assets/icons/code.svg"
+text = "Empowering decisions through insightful data analysis, driving efficiency and innovation as a data analyst"
+[[doing]]
+title = "AI/ML Development"
+icon = "./config/assets/icons/compass.svg"
+text = "Innovating AI/ML solutions for transformative impact."
+
+[[doing]]
+title = "data analyst"
+icon = "./config/assets/icons/laptop-code.svg"
+text = "Skilled in transforming raw data into actionable insights through statistical analysis, visualization, and data-driven decision-making."
